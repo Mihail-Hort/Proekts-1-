@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Projekts</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="stils.css">
+  <script src="programma.js"></script> 
+</head>
+<body>
+  <form name="Mforms">
+        <h1>Varišanas laiks(elektriskaja teikanna)</h1>
+        <label for="sk1">Teikannas jauda:</label>
+        <input type="text" id="sk1" name="pirmais" > W ( Vati )
+        <p></p>
+        <label for="sk2">Ūdens daudzums:</label> 
+        <input type="text" id="sk2" name="otrais" > L ( litri )
+        <br>
+        <p></p>
+
+        <label for="sk3">Sakuma temperatūra:</label> 
+        <input type="text" id="sk3" name="trešais" > C° ( gradi celsija )       
+        <br> 
+        <p></p>
+        Darbība: 
+        <p></p>
+        
+        <label for="atb">Atbilde:</label>
+        <input type="text" id="atb" name="atbilde" >
+    </form> 
+
+</body>
+</html>
