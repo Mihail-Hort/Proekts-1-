@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+#otrais {
+  font-size: 12px;
+}
+
+.pasvitrots {
+  text-decoration: underline;
+}
