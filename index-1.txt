@@ -18,7 +18,7 @@
         <p></p>
 
         <label for="sk3">Sakuma temperatūra:</label> 
-        <input type="text" id="sk3" name="tresais" > C° ( gradi celsija )       
+        <input type="text" id="sk3" name="trešais" > C° ( gradi celsija )       
         <br> 
         <p></p>
         Darbība: 
@@ -26,7 +26,6 @@
         
         <label for="atb">Atbilde:</label>
         <input type="text" id="atb" name="atbilde" >
-                <button onclick="risinašana(); return false;">Paradīt</button>
     </form> 
 
 </body>
